@@ -2,15 +2,24 @@
 {
     padding-top: 20px;
     padding-bottom: 10px;
-    justify-content: space-between;
     display: flex;
-    margin-left: 0;
-    margin-right: 0;
+    
     background-color: blue;   
+    justify-content: space-between;
+}
+
+h6
+{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.AddedImages
+{
+    max-width: 100%;
 }
 #Portrait
 {
-    max-width: 100%;
+
 }
 
 /*Color is not appearing. Why?!*/
