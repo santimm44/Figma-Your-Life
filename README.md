@@ -1,5 +1,11 @@
 # Figma your Life
 
+
+reviewed by: Ian Chesley
+COMMENTS: The webpages look good. Filled out the pages nicely. Nice touch adding personal photos.
+
+
+
 Make a Figma about your life. 
 
 You will create a prototype of a website about your life and be functional 
